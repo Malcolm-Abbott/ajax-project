@@ -1,0 +1,17 @@
+header {
+  background-color: rgb(4, 65, 120);
+}
+
+.row {
+  display: flex;
+}
+
+.col-third {
+  flex-basis: calc(100% / 3);
+  border: 2px solid red;
+}
+
+.header-h1 {
+  text-align: center;
+  color: #ffff;
+}
