@@ -15,3 +15,7 @@ header {
   text-align: center;
   color: #ffff;
 }
+
+.search-bar-wrapper {
+  border: 2px solid green;
+}
