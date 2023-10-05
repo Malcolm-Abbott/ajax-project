@@ -1,5 +1,6 @@
-header {
-  background-color: rgb(4, 65, 120);
+.container {
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .row {
@@ -8,14 +9,4 @@ header {
 
 .col-third {
   flex-basis: calc(100% / 3);
-  border: 2px solid red;
-}
-
-.header-h1 {
-  text-align: center;
-  color: #ffff;
-}
-
-.search-bar-wrapper {
-  border: 2px solid green;
 }

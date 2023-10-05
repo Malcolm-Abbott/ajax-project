@@ -6,10 +6,3 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
-
-#search {
-  border: 1px solid lightgray;
-  border-radius: 0.25rem;
-  height: 1.75rem;
-  width: 50%;
-}
